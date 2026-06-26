@@ -1,5 +1,5 @@
 # Week 4: Data Visualization & Dashboarding
-**AnalystLab Africa Data Analytics Internship 
+** AnalystLab Africa Data Analytics Internship 
 
 ---
 
@@ -62,7 +62,7 @@ This project involves building an interactive business dashboard using **Microso
 |------|-------------|
 | `Week4_Dashboard_Presentation.pptx` | 7-slide presentation with insights |
 | `Week4_Summary_Report.docx` | One-page summary report |
-| `dashboard.png` | Power BI dashboard screenshot |
+| `Dashboard_Screenshot.png` | Power BI dashboard screenshot |
 | `Sample - Superstore.csv` | Dataset used |
 
 ---
