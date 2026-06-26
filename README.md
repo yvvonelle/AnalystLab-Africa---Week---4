@@ -1,5 +1,5 @@
 # Week 4: Data Visualization & Dashboarding
-** AnalystLab Africa Data Analytics Internship 
+
 
 ---
 
